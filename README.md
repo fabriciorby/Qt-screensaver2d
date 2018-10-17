@@ -1,2 +1,5 @@
 # Qt-screensaver2d
-tentativa de um screensaver básico simulando efeito de neve
+
+![](snow.gif)
+
+Tentativa de um screensaver básico simulando efeito de neve.
